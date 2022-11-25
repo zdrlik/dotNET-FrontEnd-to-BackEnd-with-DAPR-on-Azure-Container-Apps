@@ -8,7 +8,7 @@ on:
 env:
   
   # alphanumeric string under 14 characters
-  RESOURCE_GROUP_NAME: zdrstore
+  RESOURCE_GROUP_NAME: zdrstorerg
 
   # specify your preferred region
   REGION: eastus
